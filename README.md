@@ -1,1 +1,1 @@
-# EuroMov-PFE-Lombalgie-KG
+# EuroMov-Lombalgie-KG
